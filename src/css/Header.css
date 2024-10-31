@@ -1,0 +1,13 @@
+.header {
+  height: 500px;
+  width: 100%;
+  background-color: rgb(221, 188, 243);
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+  padding: 25px 10px;
+}
